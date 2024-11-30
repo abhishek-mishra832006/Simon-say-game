@@ -61,6 +61,7 @@ function checkAns(idx) {
     }
 }
 
+
 function btnPress() {
     let btn=this;
     userFlash(btn);
